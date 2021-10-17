@@ -1,0 +1,24 @@
+.button {
+  cursor: pointer;
+  margin-top: 20px;
+  padding: 8px;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 20px;
+}
+
+.button:active,
+.button:hover {
+  background-color: rgb(15, 187, 72);
+  color: #fff;
+}
+
+.contactForm {
+  margin-bottom: 50px;
+  max-width: 700px;
+  width: 450px;
+  padding: 15px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background-color: rgb(226, 240, 247);
+}
